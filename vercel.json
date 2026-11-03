@@ -1,4 +1,5 @@
 {
+  "framework": null,
   "outputDirectory": "public",
   "functions": {
     "api/check.js": { "includeFiles": "data/**", "maxDuration": 60 }
